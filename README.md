@@ -25,7 +25,7 @@ located_in: [Abuja-Nigeria]
 from: [Nigeria]
 Currently Working on: APIs and Web Scraping
 job: Solutions-driven Professional
-education: ["Bachelor's in Computer Engineering"]
+education: ["Undergraduate in Computer and Electrical Engineering"]
 technical_background: ["Web Automation", "Application Automation", "Web Technologies", "Software Engineering"]
 currently_learning: ["Servers", "Web Scraping"]
 ask_me_about: ["Algorithm Challenges", "Problem-Solving Methodology", "Python", "Node.js", "C"]
@@ -115,7 +115,7 @@ Text                     0 secs              ░░░░░░░░░░░�
 VS Code                  7 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Impressive-Workflows     4 hrs 1 min         █████████████░░░░░░░░░░░░   52.62 % 
+Doodah-Haven             4 hrs 1 min         █████████████░░░░░░░░░░░░   52.62 % 
 ozkar                    3 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.34 % 
 src                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
@@ -129,9 +129,9 @@ RPA                      1 min               ░░░░░░░░░░░�
 Wanna play?
  <div align=center>
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicemist&show_icons=true&locale=en&layout=compact" alt="alicemist" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astro175&show_icons=true&locale=en&layout=compact" alt="astro" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alicemist" alt="alicemist" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astro175" alt="astro" />
 </div>
 <div align=center>
   <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
